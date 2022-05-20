@@ -8,7 +8,7 @@
  * This project uses @Incubating APIs which are subject to change.
  */
 
-rootProject.name = "mycila-guice"
+rootProject.name = "mycila-guice-extensions"
 
 include(":mycila-guice-jsr250")
 include(":mycila-guice-injection")
